@@ -22,10 +22,6 @@ Este é um simples jogo de adivinhação onde o usuário deve tentar adivinhar u
 - Interface amigável e responsiva.
 - Design limpo e moderno com realce nas mensagens de acerto ou erro.
 
-## 📷 Captura de Tela
-![Jogo de Adivinhação](<img width="946" alt="Capturar" src="https://github.com/user-attachments/assets/c142fc76-fb15-4cdd-87a9-b3cdbdac7046" />
-)
-
 ## 📌 Melhorias Futuras
 - Adicionar um sistema de pontuação.
 - Criar um ranking de jogadores.
